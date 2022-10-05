@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+.conteredor{
+    background-color: rgb(179, 64, 81);
+    background-image: url("img/1.png");
+    background-repeat:no-repeat;
+    background-position: center;
+    width: 210vh;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-style: Italic;
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.25em;
+}
+
+#yesBtn{
+    transform: translate(-60%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
